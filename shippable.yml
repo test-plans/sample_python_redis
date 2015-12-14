@@ -10,4 +10,4 @@ notifications:
   email:
     - exampleone@org.com
 
-build_image: drydock/u14pytpls:tip
+build_image: drydock/u12pytpls:tip
