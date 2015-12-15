@@ -8,6 +8,6 @@ script:
  - python sample.py
 notifications:
   email:
-    - exampleone@org.com
+    -vidyaghe@gmail.com
 
 build_image: drydock/u14pytpls:tip
